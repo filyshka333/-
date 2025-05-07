@@ -27,7 +27,7 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 	Animal ani;
-	ani.setName("Шарик");	
+	ani.setName("Псина");	
 	ani.echo();
 	return 0;
 	
